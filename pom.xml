@@ -4,7 +4,7 @@
   <groupId>com.digital.prj1</groupId>
   <artifactId>vlc1</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>vlc1</name>
   <url>http://maven.apache.org</url>
   <dependencies>
